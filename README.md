@@ -68,6 +68,8 @@ Replace the values for `--source`, `--requirements`, and `--target-string` with 
 ## License
 
 ## Collaborators
-- [nishaoza-1432](https://github.com/nishaoza-1432) - Added as a collaborator.
+- [nishaoza-1432](https://github.com/nishaoza-1432)
+- [ruchinishad840](https://github.com/ruchinishad840)
+- [MUSKAN0503](https://github.com/MUSKAN0503)
 
 This project is licensed under the [MIT License](LICENSE). Feel free to modify and use it according to your needs.

@@ -1,5 +1,5 @@
 # AI Web Scraper
-![GPT based automated webscrapper](https://cdn.discordapp.com/attachments/984632500875821066/1104363425439698944/analyticsynthetic_Small_cute_mining_robot_with_large_eyes_5501ffb9-ea08-4dfc-b04d-9623f7c4481a.png "GPT based automated webscrapper")
+
 
 This project is an AI-powered web scraper that allows you to extract information from HTML sources based on user-defined requirements. It generates scraping code and executes it to retrieve the desired data.
 
